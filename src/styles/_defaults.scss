@@ -50,8 +50,12 @@ ul {
 }
 
 .content {
-  padding-top: 20px;
-  display: flex;
+  background-color: #fafafa;
+
+  &__inner {
+    padding-top: 20px;
+    display: flex;
+  }
 
   &__left {
     width: 290px;

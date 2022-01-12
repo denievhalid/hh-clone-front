@@ -2,12 +2,14 @@
   <div>
     <v-header />
     <v-search-panel />
-    <div class="content inner">
-      <div class="content__left">
-        <v-my-events />
-      </div>
-      <div class="content__right">
-        <v-recommended />
+    <div class="content">
+      <div class="content__inner inner">
+        <div class="content__left">
+          <v-my-events />
+        </div>
+        <div class="content__right">
+          <v-recommended />
+        </div>
       </div>
     </div>
   </div>
