@@ -29,10 +29,14 @@ export default {
   &__form {
     display: block;
     width: 770px;
+
+    input {
+      border-right: 0;
+    }
   }
 
   button {
-    width: 101px;
+    min-width: 101px;
   }
 }
 </style>
