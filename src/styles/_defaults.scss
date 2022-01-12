@@ -49,6 +49,17 @@ ul {
   margin: auto;
 }
 
-main {
+.content {
   padding-top: 20px;
+  display: flex;
+
+  &__left {
+    width: 290px;
+    padding-right: 30px;
+    border-right: 1px solid #edeff0;
+  }
+
+  &__right {
+    padding-left: 30px;
+  }
 }
