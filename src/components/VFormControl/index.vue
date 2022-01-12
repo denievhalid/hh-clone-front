@@ -31,6 +31,10 @@ export default {
   line-height: 38px;
   outline: none;
 
+  &::placeholder {
+    color: #babdbf;
+  }
+
   &:hover {
     border-color: #959799;
   }

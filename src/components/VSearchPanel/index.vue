@@ -2,7 +2,7 @@
   <div class="search">
     <div class="search__inner inner">
       <form class="search__form">
-        <v-form-control />
+        <v-form-control placeholder="Профессия, должность или компания" />
       </form>
     </div>
   </div>
