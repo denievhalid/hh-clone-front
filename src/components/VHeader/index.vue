@@ -5,7 +5,9 @@
     </div>
     <div class="header__bottom">
       <div class="header__inner inner">
+        <!-- Логотип -->
         <v-logo />
+        <!-- Главное меню -->
         <v-main-menu />
       </div>
     </div>
