@@ -18,9 +18,12 @@ export default {
 
 <style lang="scss">
 .search {
+  background: #fafafa;
+  padding: 20px 0;
+
   &__form {
+    display: block;
     width: 770px;
-    margin: 20px 0;
   }
 }
 </style>
